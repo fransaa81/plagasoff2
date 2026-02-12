@@ -1,4 +1,4 @@
-# Las Plaguitas Off
+# Las Plaguitas  Off
 
 Repositorio del sitio static "plagasoff".
 
